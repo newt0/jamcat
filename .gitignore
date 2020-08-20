@@ -1,0 +1,14 @@
+# IDE / Editor
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Hugo
+/public/
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin

@@ -2,7 +2,7 @@ baseURL = "https://jamcat.netlify.app"
 title = "JAMcat"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 

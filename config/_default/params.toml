@@ -1,6 +1,6 @@
 logoText = "Zzo"
 logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+description = "JAMcat is a tech blog about JAMStack. Static site Genrerator such aGatsby.js, Nuxt.js, Hugo, Vuepress. Headless CMS Forestry CMS, Contentful, MicroCMS, Netlify CMS. Other services such a Netlify  Google Search Console, GitHub."
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "normal" # , wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true

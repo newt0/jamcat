@@ -14,4 +14,10 @@
   identifier = "posts"
   name = "Posts"
   url = "posts"
-  weight = 5
+  weight = 1
+
+[[main]]
+  identifier = "publication"
+  name = "Pub"
+  url = "publication"
+  weight = 7

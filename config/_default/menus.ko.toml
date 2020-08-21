@@ -5,12 +5,6 @@
   weight = 1
 
 [[main]]
-  identifier = "archive"
-  name = "아카이브"
-  url = "archive"
-  weight = 2
-
-[[main]]
   identifier = "gallery"
   name = "갤러리"
   url = "gallery"

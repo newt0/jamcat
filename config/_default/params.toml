@@ -1,4 +1,4 @@
-logoText = "Zzo"
+logoText = "JAMcat"
 logoType = "short" # long, short
 description = "JAMcat is a tech blog about JAMStack. Static site Genrerator such aGatsby.js, Nuxt.js, Hugo, Vuepress. Headless CMS Forestry CMS, Contentful, MicroCMS, Netlify CMS. Other services such a Netlify  Google Search Console, GitHub."
 custom_css = []

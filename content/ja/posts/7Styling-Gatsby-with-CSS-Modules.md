@@ -1,19 +1,16 @@
 ---
 title: "7. Styling Gatsby with CSS Modules"
 description: "The Great Gatsby Bootcamp"
-shorttitle: ""
 publishDate: "2020-08-20"
-ENTRYTYPE: "Gatsby Bootcamp"
 series:
 - The Great Gatsby Bootcamp
 tags: 
 - Transcription
 - Tutorial
 - Youtube
-category: 
+categories: 
 - Gatsby.js
-image: 
-pinned : true
+image:
 draft: false
 hideToc: false
 enableToc: true

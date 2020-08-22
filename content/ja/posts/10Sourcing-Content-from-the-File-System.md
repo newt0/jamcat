@@ -1,19 +1,16 @@
 ---
 title: "10. Sourcing Content from the File System"
 description: "The Great Gatsby Bootcamp"
-shorttitle: ""
 publishDate: "2020-08-19"
-ENTRYTYPE: "Gatsby Bootcamp"
 series:
 - The Great Gatsby Bootcamp
 tags: 
 - Transcription
 - Tutorial
 - Youtube
-category: 
+categories: 
 - Gatsby.js
 image: 
-pinned : true
 draft: false
 hideToc: false
 enableToc: true

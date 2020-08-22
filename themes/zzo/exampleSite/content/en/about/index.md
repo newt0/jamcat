@@ -15,7 +15,7 @@ Hugo makes use of a variety of open source projects including:
 * https://github.com/spf13/cobra
 * https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Hugo is ideal for blogs, corporate websites, creative portfolios, online Diarys, single page applications or even a website with thousands of pages.
 
 Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 

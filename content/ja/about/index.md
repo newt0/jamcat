@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "JAMStack Magazine is techblog about JAMStack, and other web develops."
+description = "JAMStack Diary is techblog about JAMStack, and other web develops."
 type = "about"
 date = "2019-02-28"
 +++

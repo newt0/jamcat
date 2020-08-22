@@ -1,5 +1,5 @@
-baseURL = "https://jamstack-magazine.netlify.app"
-title = "JAMStack Magazine"
+baseURL = "https://jamstack-diary.netlify.app"
+title = "JAMStack Diary"
 theme = "zzo"
 
 defaultContentLanguage = "ja"

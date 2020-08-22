@@ -1,1 +1,1 @@
-# JAMStack Magazine
+# JAMStack Diary

@@ -1,19 +1,19 @@
 [en]
-  title = "JAMcat"
+  title = "JAMStack Magazine"
   languageName = "English"
   weight = 1
   languagedir = "ltr"
   contentdir = "content/en"
 
 [ko]
-  title = "JAMcat"
+  title = "JAMStack Magazine"
   languageName = "한국어"
   weight = 3
   languagedir = "ltr"
   contentdir = "content/ko"
 
   [ja]
-  title = "JAMcat"
+  title = "JAMStack Magazine"
   languageName = "日本語"
   weight = 2
   languagedir = "ltr"

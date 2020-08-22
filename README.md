@@ -1,1 +1,1 @@
-# jamcat
+# JAMStack Magazine

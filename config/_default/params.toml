@@ -20,7 +20,7 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # header
-homeHeaderType = "slide" # text, img, slide, typewriter
+homeHeaderType = "typewriter" # text, img, slide, typewriter
 
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]

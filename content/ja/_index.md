@@ -2,14 +2,25 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
+      - typeString: Blazing fast and secure sites
       - pauseFor: 2500
-      - deleteAll: true
-      - typeString: Strings can be removed
+      - typeString: <br>with Headless CMS
       - pauseFor: 2500
+      - typeString: <br>and Gatsby 
+      - pauseFor: 2500
+      - deleteChars: 6
+      - typeString: Nuxt 
+      - pauseFor: 500
+      - deleteChars: 4
+      - typeString: Next
+      - pauseFor: 500
+      - deleteChars: 4
+      - typeString: Hugo
+      - pauseFor: 500
+      - deleteChars: 4
+      - typeString: Vuepress
+      - pauseFor: 500
       - deleteChars: 7
-      - typeString: <strong>altered!</strong>
-      - pauseFor: 2500
     options:
       loop: true
       autoStart: false
@@ -76,7 +87,7 @@ header:
         imageRepeat: no-repeat
         imagePosition: center
         title:
-          - header title1
+          - Gatsby.js
         subtitle:
           - header subtitle1
         titleFontSize: 44

@@ -2,24 +2,25 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Blazing fast and secure sites
-      - pauseFor: 500
-      - typeString: <br>with Headless CMS
-      - pauseFor: 500
-      - typeString: <br>and Gatsby 
-      - pauseFor: 500
+      - typeString: Blazing fast and secure sites.
+      - pauseFor: 300
+      - deleteAll: true
+      - typeString: Headless CMS
+      - pauseFor: 300
+      - typeString: <br>with Gatsby 
+      - pauseFor: 300
       - deleteChars: 6
       - typeString: Nuxt 
-      - pauseFor: 500
+      - pauseFor: 300
       - deleteChars: 4
       - typeString: Next
-      - pauseFor: 500
+      - pauseFor: 300
       - deleteChars: 4
       - typeString: Hugo
-      - pauseFor: 500
+      - pauseFor: 300
       - deleteChars: 4
       - typeString: Vuepress
-      - pauseFor: 500
+      - pauseFor: 300
       - deleteChars: 7
     options:
       loop: true

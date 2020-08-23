@@ -3,11 +3,11 @@ header:
   - type: typewriter
     methods:
       - typeString: Blazing fast and secure sites
-      - pauseFor: 2500
+      - pauseFor: 500
       - typeString: <br>with Headless CMS
-      - pauseFor: 2500
+      - pauseFor: 500
       - typeString: <br>and Gatsby 
-      - pauseFor: 2500
+      - pauseFor: 500
       - deleteChars: 6
       - typeString: Nuxt 
       - pauseFor: 500
@@ -28,7 +28,7 @@ header:
     paddingX: 50
     align: center
     fontSize: 44
-    fontColor: yellow
+    fontColor: purple
     
   - type: text
     height: 200

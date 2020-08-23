@@ -18,6 +18,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+## Transcription script
+
 Welcome to the very first lesson for `The Great Gatsby Bootcamp`, where we're going to start using Gatsby in this video in particular, we're gonna focus on three things.
 One, we're gonna learn a little bit more about Gatsby to we're going to install The Gatsby command line interface.
 And three, we're gonna use that command line interface to create and run.
@@ -143,3 +145,11 @@ All right, that's where we're going to stop for this one.
 In this first lesson, you got Gatsby installed and you also created and started up your very First Gatsby site.
 In the next lesson, if the focus is gonna be on Gatsby, pages will talk about customizing pages and creating new ones, and the focus will be on that page is directory and the files inside.
 I'm really excited to get to that and learn more about why all of this is even working, so let's jump right in to the next lesson.
+
+{{< alert theme="info" >}}
+Andreaw Mead's Udemy Courses are {{< color "#FF0000" >}}90%OFF{{< /color >}} now!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}

@@ -187,6 +187,11 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
+[[share]]
+  name = "reddit"
+[[share]]
+  name = "weibo"
+
 
 [[footerLinks]]
   name = ""

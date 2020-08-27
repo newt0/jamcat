@@ -19,6 +19,7 @@ copyright: "All rights reserved"
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=38" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Transcription script
 
 Welcome to the very first lesson for `The Great Gatsby Bootcamp`, where we're going to start using Gatsby in this video in particular, we're gonna focus on three things.

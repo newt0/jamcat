@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=15938" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We've got a site and now it's time to get it live.
 And that's exactly what we're gonna do in this one.
 Now the first thing we need to do is to get everything up on a github Repo.

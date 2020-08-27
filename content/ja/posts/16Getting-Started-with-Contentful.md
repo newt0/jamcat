@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=12079" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 in this video, we're going to start the process of connecting our Gatsby project to a content management system.
 Now, in this bootcamp will be working with the `Contentful` CMS.
 But the exact same principles would apply if you wanted to use another content management system like `Wordpress` or Drew.

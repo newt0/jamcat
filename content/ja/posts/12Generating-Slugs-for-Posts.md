@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=8340" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now that we have a list of blog posts on the blog page, it's time to dynamically generate pages for each and every post.
 So if I want to read this post, I click on the title.
 That brings me over to a new page and that new pages dynamically generated using the markdown data from `GraphQL` and a blog post page template, which is nothing more than a `React component`.

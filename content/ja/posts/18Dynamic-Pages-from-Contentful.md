@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=13764" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now that your list of blog posts is populated from `Contentful`, we want to make sure we're generating pages for each of those posts.
 Right now, if we click on them, we get nothing.
 And that's a problem.

@@ -18,6 +18,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=2894" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In this lesson, you'll be taking your pages to the next level by creating a single page layout component.
 So you can think of this video as a continuation of the last one.
 In the last video, we set up our header and footer, and in order to render them on every page, we had to import them on every page and then manually set them up in the correct position four times.

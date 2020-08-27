@@ -18,6 +18,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=6432" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Welcome back in this video as promised.
 I just want to take a couple of minutes to explore how you can set up an alternative to `GraphQL` This is the default IDE for working with your `GraphQL` API in Gatsby.
 But Gatsby also comes with support for another IDE.

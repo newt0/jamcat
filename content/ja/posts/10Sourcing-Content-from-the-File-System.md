@@ -18,6 +18,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=6692" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A couple of videos ago, we went over to the browser and went to The Gatsby home page to.
 Look at the following visualization here.
 We talked about how we were going to use the `GraphQL` API that Gatsby provides a source our data from external data sources now.

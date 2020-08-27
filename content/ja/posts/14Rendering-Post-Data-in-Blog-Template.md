@@ -18,6 +18,9 @@ enableToc: true
 enableTocContent: false
 copyright: "All rights reserved"
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=10328" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In this video, we're finally going to render the post content on the post page, replacing our little placeholder text with actual data about the post like the title ,the date and the post content.
 Now to get this done.
 What we need to figure out how to do is how we can set up a dynamic `GraphQL` query.

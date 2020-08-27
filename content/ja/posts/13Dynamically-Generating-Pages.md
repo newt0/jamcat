@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=9314" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 It's time to continue on with our three goals.
 We already have our page slugs.
 Goal number two is to generate a new template for the blog posts page, and we're going to do that by creating a new directory in the source folder called Templates.

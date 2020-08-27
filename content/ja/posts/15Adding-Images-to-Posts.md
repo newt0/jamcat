@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=11008" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now that we have post content rendered on our site, What I want to focus on in this video are two final things.
 Before we move on to sourcing our content from the `Contentful` CMS, we're gonna focus on adding support for images in our posts, and we're gonna add a few final styles to make the post and the post list look a little nicer than they currently do.
 But to get started, what I want to do is figure out how we can add images into our posts, and this is really going to require us to just install and configure three new.

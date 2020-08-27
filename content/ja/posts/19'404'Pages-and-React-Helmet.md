@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=15018" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 There are just two videos left in this one.
 You're gonna learn how to set up a 404 page, and you're also going to learn how to customize the head of your document to set up things like a page title.
 And then in the next lesson, the final one will take our Gatsby site and will deploy it live to the Web.

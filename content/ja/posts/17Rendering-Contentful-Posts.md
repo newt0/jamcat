@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=13109" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 now that you have content in your `Contentful` CMS, what we're gonna do is figure out how we can get it rendered in the browser.
 We've already seen a sample `GraphQL` query that fetches are blog posts from `Contentful`.
 And the goal in this video is to get our post list rendered using `Contentful` posts instead of using the posts we created with markdown files.

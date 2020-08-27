@@ -18,6 +18,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=5303" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Welcome back to `The Great Gatsby Bootcamp`.
 In this video, we're going to turn our attention towards getting dynamic data into our Gatsby sites using Gatsby's `GraphQL` API.
 Now, if you've never used `GraphQL` before, that's perfectly fine.

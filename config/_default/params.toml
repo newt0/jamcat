@@ -143,11 +143,11 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "kyohei.ito@kernel-dc.jp"
+  email = ""
   phone = ""
-  facebook = "http://example.org/"
-  twitter = "http://example.org/"
-  github = "https://github.com/zzossig/hugo-theme-zzo"
+  facebook = ""
+  twitter = "https://twitter.com/kyohei_ai"
+  github = "https://github.com/newt0"
   stack-overflow = ""
   instagram = ""
   google-plus = ""

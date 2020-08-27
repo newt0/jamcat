@@ -101,10 +101,10 @@ commento = false
   dataLimit = 5
 
 [gitment]          # Gitment is a comment system based on GitHub issues. see https://github.com/imsun/gitment
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
+  owner = "newt0"              # Your GitHub ID
+  repo = "https://github.com/newt0/gatsbybootcamp-transcription"               # The repo to store comments
+  clientId = "30edee57b2ee31c4828e"           # Your client ID
+  clientSecret = "d06306a80c047e7165cd5d890623592d3e70967c"       # Your client secret
 
 [utterances]       # https://utteranc.es/
   owner = ""              # Your GitHub ID

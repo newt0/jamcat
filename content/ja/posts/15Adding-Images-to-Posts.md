@@ -19,7 +19,15 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=11008" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/8t0vNu2fCCM?start=11008"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  >
+  </iframe>
+</div>
 
 Now that we have post content rendered on our site, What I want to focus on in this video are two final things.
 Before we move on to sourcing our content from the `Contentful` CMS, we're gonna focus on adding support for images in our posts, and we're gonna add a few final styles to make the post and the post list look a little nicer than they currently do.

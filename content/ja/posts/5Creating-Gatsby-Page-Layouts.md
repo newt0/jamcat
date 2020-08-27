@@ -18,7 +18,15 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=2894" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/8t0vNu2fCCM?start=2894"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  >
+  </iframe>
+</div>
 
 In this lesson, you'll be taking your pages to the next level by creating a single page layout component.
 So you can think of this video as a continuation of the last one.

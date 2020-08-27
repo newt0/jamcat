@@ -18,7 +18,15 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8t0vNu2fCCM?start=890" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/8t0vNu2fCCM?start=890"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  >
+  </iframe>
+</div>
 
 Welcome to the second lesson for `The Great Gatsby Bootcamp`, where you're gonna learn how to work with Gatsby pages.
 Now, in the last lesson, we saw that by default we had to this source pages directory and in there we had a single file for the single page on our site.

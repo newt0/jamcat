@@ -29,6 +29,8 @@ copyright: "All rights reserved"
   </iframe>
 </div>
 
+## 本文
+
 It's time to continue on with our three goals.
 We already have our page slugs.
 Goal number two is to generate a new template for the blog posts page, and we're going to do that by creating a new directory in the source folder called Templates.
@@ -223,3 +225,20 @@ So at this point, when it comes to the markdown blog, there is only one thing we
 We need to figure out how to actually use the slug in this template to fetch the data, the title, the date and the post body.
 Because all of that needs to get rendered to the screen.
 That's what we're going to do in the next video, So let's jump right into that.
+
+## お知らせ
+
+{{< alert theme="danger" >}} 
+本書き起こしはgithubレポジトリで管理しています。
+**ミスを発見したら、Github issuesでお伝え頂ければ幸いです。** 
+[Issues on Github](https://github.com/newt0/gatsbybootcamp-transcription/issues)
+{{< /alert >}}
+
+{{< alert theme="info" >}}
+Andreaw Mead氏のUdemy Coursesが {{< color "#FF0000" >}}現在90%OFF{{< /color >}} です!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}
+

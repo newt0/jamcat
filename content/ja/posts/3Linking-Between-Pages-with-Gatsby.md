@@ -28,6 +28,8 @@ copyright: "All rights reserved"
   </iframe>
 </div>
 
+## 本文
+
 Now that you have a few pages in place, let's go ahead and link between those pages.
 Now, the most obvious way to get this done would be to use the `<a>` element provided by `html` itself and that would indeed work.
 So let's start with the home page.
@@ -132,3 +134,20 @@ It brings me over to the contact page without that full page refresh, which is e
 And now that we know how the link between the pages on our Gatsby site let's go ahead and move on into the next video, where you're gonna figure out how to create shared components.
 So imagine we want to take links to the next level, setting up something like a navigation bar that shows up exactly the same for every single page.
 That is the topic of the next lesson, so let's jump right into that.
+
+## お知らせ
+
+{{< alert theme="danger" >}} 
+本書き起こしはgithubレポジトリで管理しています。
+**ミスを発見したら、Github issuesでお伝え頂ければ幸いです。** 
+[Issues on Github](https://github.com/newt0/gatsbybootcamp-transcription/issues)
+{{< /alert >}}
+
+{{< alert theme="info" >}}
+Andreaw Mead氏のUdemy Coursesが {{< color "#FF0000" >}}現在90%OFF{{< /color >}} です!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}
+

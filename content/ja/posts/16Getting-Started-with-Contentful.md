@@ -29,6 +29,8 @@ copyright: "All rights reserved"
   </iframe>
 </div>
 
+## 本文
+
 in this video, we're going to start the process of connecting our Gatsby project to a content management system.
 Now, in this bootcamp will be working with the `Contentful` CMS.
 But the exact same principles would apply if you wanted to use another content management system like `Wordpress` or Drew.
@@ -224,3 +226,20 @@ Now that we have access to it via our API.
 We could use those queries in our `React component`s to get that data rendered to the screen.
 That's the topic of the next lesson.
 So let's jump right in.
+
+## お知らせ
+
+{{< alert theme="danger" >}} 
+本書き起こしはgithubレポジトリで管理しています。
+**ミスを発見したら、Github issuesでお伝え頂ければ幸いです。** 
+[Issues on Github](https://github.com/newt0/gatsbybootcamp-transcription/issues)
+{{< /alert >}}
+
+{{< alert theme="info" >}}
+Andreaw Mead氏のUdemy Coursesが {{< color "#FF0000" >}}現在90%OFF{{< /color >}} です!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}
+

@@ -18,16 +18,6 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
-<div style="position: relative; padding-bottom: 56.25%;">
-  <iframe 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    src="https://www.youtube.com/embed/8t0vNu2fCCM?start=2156"
-    frameborder="0"
-    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
-  >
-  </iframe>
-</div>
-
 You're Gatsby site currently has four pages, and the content for those four pages is completely unique.
 There is no shared content.
 We type out everything.
@@ -160,3 +150,20 @@ But this directory could be called anything you'd like.
 Its name is not important.
 All right, That's where we're going to stop for this one.
 I'll see you in the next lesson.
+
+## お知らせ
+
+{{< alert theme="danger" >}} 
+本書き起こしはgithubレポジトリで管理しています。
+**ミスを発見したら、Github issuesでお伝え頂ければ幸いです。** 
+[Issues on Github](https://github.com/newt0/gatsbybootcamp-transcription/issues)
+{{< /alert >}}
+
+{{< alert theme="info" >}}
+Andreaw Mead氏のUdemy Coursesが {{< color "#FF0000" >}}現在90%OFF{{< /color >}} です!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}
+

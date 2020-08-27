@@ -30,6 +30,7 @@ copyright: "All rights reserved"
 
 ## 本文
 
+
 Welcome to the very first lesson for `The Great Gatsby Bootcamp`, where we're going to start using Gatsby in this video in particular, we're gonna focus on three things.
 One, we're gonna learn a little bit more about Gatsby to we're going to install The Gatsby command line interface.
 And three, we're gonna use that command line interface to create and run.

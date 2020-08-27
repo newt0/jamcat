@@ -28,6 +28,8 @@ copyright: "All rights reserved"
   </iframe>
 </div>
 
+## 本文
+
 Welcome back to `The Great Gatsby Bootcamp`.
 In this video, we're going to turn our attention towards getting dynamic data into our Gatsby sites using Gatsby's `GraphQL` API.
 Now, if you've never used `GraphQL` before, that's perfectly fine.
@@ -200,3 +202,20 @@ So now we have two dynamic pieces of data in the site, and we figured out how to
 All I'm gonna do to wrap up is revert that change back to a value that makes sense, and we're done in the next video What I want to do is take just a couple of minutes to show you an alternative to `GraphQL` that you can use with Gatsby.
 In my opinion, it's a lot easier to work with and comes with a nicer user interface.
 I'm excited to get to that, so let's jump right in to the next one.
+
+## お知らせ
+
+{{< alert theme="danger" >}} 
+本書き起こしはgithubレポジトリで管理しています。
+**ミスを発見したら、Github issuesでお伝え頂ければ幸いです。** 
+[Issues on Github](https://github.com/newt0/gatsbybootcamp-transcription/issues)
+{{< /alert >}}
+
+{{< alert theme="info" >}}
+Andreaw Mead氏のUdemy Coursesが {{< color "#FF0000" >}}現在90%OFF{{< /color >}} です!
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Freact-2nd-edition%2F" target="_blank" rel="nofollow">The Complete React Developer Course (w/ Hooks and Redux)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgraphql-bootcamp%2F" target="_blank" rel="nofollow">The Modern GraphQL Bootcamp (with Node.js and Apollo)</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmodern-javascript%2F" target="_blank" rel="nofollow">The Modern JavaScript Bootcamp</a>
+- <a href="https://px.a8.net/svt/ejp?a8mat=3BK8OP+16V93U+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthe-complete-nodejs-developer-course-2%2F" target="_blank" rel="nofollow">The Complete Node.js Developer Course (3rd Edition)</a>
+{{< /alert >}}
+

@@ -19,6 +19,8 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<a href="//af.moshimo.com/af/c/click?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856&guid=ON" rel="nofollow" target="_blank"><img src="//image.moshimo.com/af-img/0304/000000013856.gif" width="100%" height="auto"></a><img src="//i.moshimo.com/af/i/impression?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856" width="1" height="1">
+
 <div style="position: relative; padding-bottom: 56.25%;">
   <iframe 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"

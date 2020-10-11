@@ -151,6 +151,7 @@ Its name is not important.
 All right, That's where we're going to stop for this one.
 I'll see you in the next lesson.
 
+<a href="//af.moshimo.com/af/c/click?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856&guid=ON" rel="nofollow"><img src="//image.moshimo.com/af-img/0304/000000013856.gif" width="728" height="90" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856" width="1" height="1" style="border:none;">
 ## お知らせ
 
 {{< alert theme="danger" >}} 

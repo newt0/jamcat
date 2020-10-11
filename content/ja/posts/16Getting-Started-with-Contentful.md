@@ -229,7 +229,9 @@ We could use those queries in our `React component`s to get that data rendered t
 That's the topic of the next lesson.
 So let's jump right in.
 
-<a href="//af.moshimo.com/af/c/click?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856&guid=ON" rel="nofollow"><img src="//image.moshimo.com/af-img/0304/000000013856.gif" width="728" height="90" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2155533&p_id=969&pc_id=1263&pl_id=13856" width="1" height="1" style="border:none;">
+<a href="//af.moshimo.com/af/c/click?a_id=2180365&p_id=2520&pc_id=5570&pl_id=32577&guid=ON" rel="nofollow" target="_blank"><img src="//image.moshimo.com/af-img/1916/000000032577.png" width="100%" height="auto" style="border:none;"></a><img src="//i.moshimo.com/af/i/impression?a_id=2180365&p_id=2520&pc_id=5570&pl_id=32577" width="1" height="1" style="border:none;">
+
+
 ## お知らせ
 
 {{< alert theme="danger" >}} 

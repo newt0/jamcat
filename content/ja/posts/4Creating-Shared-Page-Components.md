@@ -18,6 +18,17 @@ enableTocContent: false
 copyright: "All rights reserved"
 ---
 
+<div style="position: relative; padding-bottom: 56.25%;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    src="https://www.youtube.com/embed/8t0vNu2fCCM?start=2158"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen
+  >
+  </iframe>
+</div>
+
+
 You're Gatsby site currently has four pages, and the content for those four pages is completely unique.
 There is no shared content.
 We type out everything.
